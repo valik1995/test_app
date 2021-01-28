@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/name"
+            android:title="Search for name" />
+        <item
+            android:id="@+id/forname"
+            android:title="Search for forname" />
+        <item
+            android:id="@+id/middlename"
+            android:title="Search for middlename" />
+        <item
+            android:id="@+id/phonenumber"
+            android:title="Search for phone number" />
+        <item
+            android:id="@+id/age"
+            android:title="Search for age" />
+    </group>
+</menu>

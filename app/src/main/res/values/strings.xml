@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TesstApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="name">name</string>
+    <string name="forname">forname</string>
+    <string name="middlename">middlename</string>
+    <string name="phone_number">phone_number</string>
+    <string name="age">age</string>
+
+</resources>
